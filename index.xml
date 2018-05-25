@@ -10,6 +10,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A Class of Semiparametric Tests of Treatment Effect Robust to Confounder Classical Measurement Error</title>
+      <link>https://calebhmiles.github.io/publication/class/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://calebhmiles.github.io/publication/class/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Causal Inference for a Single Group of Causally-Connected Units Under Stratified Interference</title>
       <link>https://calebhmiles.github.io/publication/clothing-search/</link>
       <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
@@ -53,15 +62,6 @@
       <guid>https://calebhmiles.github.io/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>A Class of Semiparametric Tests of Treatment Effect Robust to Confounder Classical Measurement Error</title>
-      <link>https://calebhmiles.github.io/publication/class/</link>
-      <pubDate>Mon, 17 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://calebhmiles.github.io/publication/class/</guid>
-      <description></description>
     </item>
     
     <item>
