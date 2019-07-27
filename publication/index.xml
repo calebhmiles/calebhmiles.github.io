@@ -10,11 +10,20 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>On Semiparametric Estimation of a Path-Specific Effect in the Presence of Mediator-Outcome Confounding</title>
+      <link>https://calebhmiles.github.io/publication/semiparametric-estimation/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://calebhmiles.github.io/publication/semiparametric-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Causal Inference When Counterfactuals Depend on the Proportion of All Subjects Exposed</title>
-      <link>https://calebhmiles.github.io/publication/clothing-search/</link>
+      <link>https://calebhmiles.github.io/publication/causal/</link>
       <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://calebhmiles.github.io/publication/clothing-search/</guid>
+      <guid>https://calebhmiles.github.io/publication/causal/</guid>
       <description></description>
     </item>
     
@@ -24,15 +33,6 @@
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://calebhmiles.github.io/publication/class/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On Semiparametric Estimation of a Path-Specific Effect in the Presence of Mediator-Outcome Confounding</title>
-      <link>https://calebhmiles.github.io/publication/semiparametric-estimation/</link>
-      <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://calebhmiles.github.io/publication/semiparametric-estimation/</guid>
       <description></description>
     </item>
     
