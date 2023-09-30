@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>On the Causal Interpretation of Randomized Interventional Indirect Effects</title>
+      <link>https://calebhmiles.github.io/publication/nier/</link>
+      <pubDate>Sun, 28 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://calebhmiles.github.io/publication/nier/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On Semiparametric Estimation of a Path-Specific Effect in the Presence of Mediator-Outcome Confounding</title>
